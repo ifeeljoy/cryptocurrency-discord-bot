@@ -19,7 +19,7 @@ Make sure you have Node.JS 16.11+
 Clone the repository.
 
 ```
-git clone https://github.com/ifeeljoy/cryptocurrency-discord-bot.git
+git clone https://github.com/ifeeljoy/cryptocurrency-tracker.git
 ```
 
 Install dependencies.
